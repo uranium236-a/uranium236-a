@@ -1,16 +1,16 @@
 # Hi there I'm Dhruv
 
-I build small learning projects like CLI or Web-based
+- I build small learning projects like CLI or Web-based
 
 ## 🌱 I’m currently learning
-  -Golang  
-  -Javascript  
+  - Golang  
+  - Javascript  
   
 ## 👁‍🗨 Goal (2026):
-  -To build projects using Golang
+  - To build projects using Golang
 
 ## ⚡ Fun fact:
-  -I upload animation videos on youtube: <a href="www.youtube.com/@known_animator">@known_animator</a>
+  - I upload animation videos on youtube: <a href="www.youtube.com/@known_animator">@known_animator</a>
 
 
 <!--
