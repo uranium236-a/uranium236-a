@@ -1,15 +1,15 @@
 # Hi there I'm Dhruv
 
-- I build small learning projects like CLI or Web-based
+- I build projects which are CLI or Web-based
 
-## 🌱 I’m currently learning
+##  Tech stack: 
   - Golang  
   - Javascript  
   
-## 👁‍🗨 Goal (2026):
-  - To build projects using Golang
+##  Goal (2026):
+  - To build projects using Golang and Javascript
 
-## ⚡ Fun fact:
+##  Fun fact:
   - I upload animation videos on youtube: <a href="www.youtube.com/@known_animator">@known_animator</a>
 
 
