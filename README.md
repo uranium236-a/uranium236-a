@@ -1,29 +1,16 @@
-# Hi there I'm Dhruv
+# 👋 Hi, I'm Dhruv
 
-- I build projects which are CLI or Web-based
+I build **CLI** and **web-based** projects.
 
-##  Tech stack: 
-  - Golang  
-  - Javascript  
-  
-##  Goal (2026):
-  - To build projects using Golang and Javascript
+## 🛠️ Tech Stack 
 
-##  Fun fact:
-  - I upload animation videos on youtube: <a href="www.youtube.com/@known_animator">@known_animator</a>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 🎯 2026 Goal
 
-<!--
-**uranium236-a/uranium236-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Build meaningful projects using **Go** and **JavaScript**.
 
-Here are some ideas to get you started:
+## 🎨 Fun Fact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I upload animation videos on YouTube: [![YouTube](https://img.shields.io/badge/YouTube-@known__animator-red?style=flat-square&logo=youtube)](https://youtube.com/@known_animator)
